@@ -23,5 +23,5 @@ Only the latest **1** articles are displayed here.
 
 - [flex布局语法](https://xiaojun996.top/pages/b9190a)
 
-**See more on [xiaojun996.com](https://www.xiaojun996.top).**  
+**See more on [xiaojun996.top](https://www.xiaojun996.top).**  
 
