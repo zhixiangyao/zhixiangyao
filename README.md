@@ -1,30 +1,37 @@
-<h3 align="center">👋 Hello! I'm 咲saki(xiaojun996)</h3>
+### 👋 Hello! I'm 咲 saki - aka [xiaojun996][website]
 
-<p align="center">
-  <a target="_blank" href="https://www.xiaojun996.top/">Blog</a> •
-  <a target="_blank" href="https://twitter.com/Luka_ai">Twitter</a>
-</p>
+[![Website](https://img.shields.io/website?label=xiaojun996.top&style=for-the-badge&url=https%3A%2F%2Fxiaojun996.top)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/Luka_ai?color=1DA1F2&logo=twitter&style=for-the-badge)][follow-twitter]
 
-### Github Stats
+## I'm a Husband, Father, Developer, and Teacher!!
 
-<a href="https://github.com/xiaojun996">
-<img src="https://github-readme-stats.vercel.app/api?username=xiaojun996">
-</a>
+- 🚶 The first step is as good as half over
+- 🥱 Ample sleep
+- 🚀 2021 Goals: Learn English LeetCode TypeScript Vue3
+- ⚡ Fun fact: Watching Anime
 
-### Languages
+### 📖 Blog Posts
 
-<a href="https://github.com/xiaojun996">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojun996" style="width: 40%; max-width: 40%; min-width: 40%;">
-</a>
+Only the recent **5** articles are displayed here.
 
-### Blog Posts
-
-Only the latest **5** articles are displayed here.
+<!-- BLOG-POST-LIST:START -->
 
 - [async、await 实现](https://xiaojun996.top/pages/69ae26/)
-- [new 实现](https://xiaojun996.top/pages/b254ff/)
+- [滑动窗口最大值](https://xiaojun996.top/pages/dcc26d/)
 - [Z 字形变换](https://xiaojun996.top/pages/c357bf/)
 - [使用 react-loadable 库解决 { lazy, Suspense } 闪烁问题](https://xiaojun996.top/pages/6e530c/)
 - [黑苹果 EFI](https://xiaojun996.top/pages/b8569d/)
 
-**See more on [xiaojun996.top](https://www.xiaojun996.top).**
+<!-- BLOG-POST-LIST:END -->
+
+### 🐈‍⬛ Github Stats
+
+<img alt="xiaojun996's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiaojun996&theme=cobalt&show_icons=true" />
+
+### ✨ Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojun996&layout=compact&theme=cobalt" >
+
+[website]: https://xiaojun996.top
+[twitter]: https://twitter.com/Luka_ai
+[follow-twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLuka_ai&screen_name=Luka_ai
