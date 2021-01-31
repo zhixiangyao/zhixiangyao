@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Zhixiang Yao - aka [xiaojun996][website]
 
 [![Website](https://img.shields.io/website?label=xiaojun996.top&style=for-the-badge&url=https%3A%2F%2Fxiaojun996.top)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Luka_ai?color=1DA1F2&logo=twitter&style=for-the-badge)][follow-twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/yaozhixiang?color=1DA1F2&logo=twitter&style=for-the-badge)][follow-twitter]
 
 ## I'm a Web Developer, and Anime fans
 
