@@ -1,25 +1,11 @@
-### 👋 Hello! I'm Zhixiang Yao - aka [xiaojun996][website]
+👋 Hello! I'm Zhixiang Yao
 
-## I'm a Web Developer, and Anime fans
+### 📜 Target
 
 - 🚶 The first step is as good as half over
 - 🥱 Ample sleep
 - 🚀 2021 Goals: Learn English LeetCode TypeScript Vue3
 - ⚡ Fun fact: Watching Anime
-
-### 📖 Blog Posts
-
-Only the recent **5** articles are displayed here.
-
-<!-- BLOG-POST-LIST:START -->
-
-- [async、await 实现](https://xiaojun996.top/pages/69ae26/)
-- [滑动窗口最大值](https://xiaojun996.top/pages/dcc26d/)
-- [Z 字形变换](https://xiaojun996.top/pages/c357bf/)
-- [使用 react-loadable 库解决 { lazy, Suspense } 闪烁问题](https://xiaojun996.top/pages/6e530c/)
-- [黑苹果 EFI](https://xiaojun996.top/pages/b8569d/)
-
-<!-- BLOG-POST-LIST:END -->
 
 ### 🐈‍⬛ Github Stats
 
