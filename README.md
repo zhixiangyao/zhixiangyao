@@ -9,12 +9,12 @@
 
 ### 🐈‍⬛ Github Stats
 
-<img alt="xiaojun996's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xiaojun996&theme=cobalt&show_icons=true" />
+<img alt="yao-zhixiang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yao-zhixiang&theme=cobalt&show_icons=true" />
 
 ### ✨ Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojun996&layout=compact&theme=cobalt" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yao-zhixiang&layout=compact&theme=cobalt" >
 
-[website]: https://xiaojun996.top
-[twitter]: https://twitter.com/Luka_ai
-[follow-twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLuka_ai&screen_name=Luka_ai
+[website]: https://yaozhixiang.top
+[twitter]: https://twitter.com/yaozhixiang
+[follow-twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyaozhixiang&screen_name=yaozhixiang
