@@ -1,4 +1,4 @@
-👋 Hello! I'm Zhixiang Yao
+👋 Hello! I'm Yáo Zhi Xiang (In China, the order is different, Yáo is my last name, zhì xiáng is my first name.)
 
 ### 📜 Target
 
