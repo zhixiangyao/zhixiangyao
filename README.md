@@ -14,7 +14,3 @@
 ### ✨ Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yao-zhixiang&layout=compact&theme=cobalt" >
-
-[website]: https://yaozhixiang.top
-[twitter]: https://twitter.com/yaozhixiang
-[follow-twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyaozhixiang&screen_name=yaozhixiang
