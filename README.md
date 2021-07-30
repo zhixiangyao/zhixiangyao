@@ -7,6 +7,12 @@
 - 🚀 2021 Goals: Learn English LeetCode TypeScript Vue3 React18
 - ⚡ Fun fact: Watching Anime
 
+### Project
+
+- [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter)
+- [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter)
+- [vite-markdown-ssg-template](https://github.com/zhixiangyao/vite-markdown-ssg-template)
+
 ### 🐈‍⬛ Github Stats
 
 <img alt="zhixiangyao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhixiangyao&theme=cobalt&show_icons=true" />
