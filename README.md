@@ -9,9 +9,10 @@
 
 ### 📜 Project
 
-- [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter)    [🌍 Demo preview](https://zhixiangyao.github.io/)
+- [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter)
 - [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter)
 - [vite-markdown-ssg-template](https://github.com/zhixiangyao/vite-markdown-ssg-template)
+  - Demo preview [Link](https://zhixiangyao.github.io/)
 - [Hackintosh-B460M-MORTAR-i5-10400-RX5700-4K](https://github.com/zhixiangyao/Hackintosh-B460M-MORTAR-i5-10400-RX5700-4K)
 
 ### 🐈‍⬛ Github Stats
