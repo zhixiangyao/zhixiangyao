@@ -9,8 +9,8 @@
 
 ### 📜 Project
 
-- [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter) (vue 3.x)
 - [vite-vue2-starter](https://github.com/zhixiangyao/vite-vue2-starter) (vue 2.x)
+- [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter) (vue 3.x)
 - [vite-vue-markdown-ssg-starter](https://github.com/zhixiangyao/vite-vue-markdown-ssg-starter) (vue 3.x)
   - Demo preview [Link](https://zhixiangyao.github.io/)
 - [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter) (react 17.x)
