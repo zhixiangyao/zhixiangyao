@@ -10,6 +10,7 @@
 ### 📜 Project
 
 - [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter)
+- [vite-vue2-starter](https://github.com/zhixiangyao/vite-vue2-starter)
 - [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter)
 - [vite-markdown-ssg-template](https://github.com/zhixiangyao/vite-markdown-ssg-template)
   - Demo preview [Link](https://zhixiangyao.github.io/)
