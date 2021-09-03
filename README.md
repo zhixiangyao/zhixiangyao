@@ -4,7 +4,7 @@
 
 - 🚶 The first step is as good as half over
 - 🥱 Ample sleep
-- 🚀 2021 Goals: Learn English LeetCode TypeScript Vue3 React18
+- 🚀 2021 Goals: Learn English LeetCode TypeScript Vue3 React17
 - ⚡ Fun fact: Watching Anime
 
 ### 📜 Project
