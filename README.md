@@ -10,7 +10,7 @@
 ### 📜 Project
 
 - [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter) (react 17.x react-router 6.x)
-- [vite-react-ts-antd-starter](https://github.com/zhixiangyao/vite-react-ts-antd-starter) (react 17.x)
+- [vite-react-ts-antd-starter](https://github.com/zhixiangyao/vite-react-ts-antd-starter) (react 17.x react-router 6.x)
 - [vite-vue-markdown-ssg-starter](https://github.com/zhixiangyao/vite-vue-markdown-ssg-starter) (vue 3.x)
   - Demo preview [Link](https://zhixiangyao.github.io/)
 - [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter) (vue 3.x)
