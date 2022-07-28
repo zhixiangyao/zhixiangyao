@@ -11,6 +11,7 @@
   - Vue 3.2+
   - React 18 RC
   - Limit weight to 68KG
+  - Smooth muscle up (I can only do 5 right now)
 - ❤️ Fun fact: 
   - Watching Anime
   - Playing Video Game
