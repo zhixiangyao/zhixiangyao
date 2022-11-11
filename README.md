@@ -3,18 +3,18 @@
 ### 📜 Target
 
 - 🚶 The first step is as good as half over
-- 🥱 Ample sleep
 - 🚀 2022 Goals: 
   - Learn English
   - LeetCode 
   - TypeScript
-  - Vue 3.2+
-  - React 18 RC
+  - Vue 3.x
+  - React 18.x
   - Limit weight to 68KG
   - Smooth muscle up (I can only do 5 right now)
 - ❤️ Fun fact: 
   - Watching Anime
-  - Playing Video Game
+  - Dota2 & Apex
+  - Work out
 
 
 ### 📜 Project
