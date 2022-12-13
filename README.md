@@ -1,4 +1,6 @@
-👋 Hello! I'm Yáo Zhi Xiang (In China, the order is different, Yáo is my last name, zhì xiáng is my first name.)![visitors](https://visitor-badge.glitch.me/badge?page_id=zhixiangyao.zhixiangyao&left_color=green&right_color=red)
+👋 Hello! I'm Yáo Zhi Xiang (In China, the order is different, Yáo is my last name, zhì xiáng is my first name.)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhixiangyao.zhixiangyao&left_color=green&right_color=red)
 
 ### 📜 Target
 
