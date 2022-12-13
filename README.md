@@ -22,7 +22,7 @@
 ### 📜 Project
 
 - ⚡️ [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter) (react 18.2 + react-router 6.0 +)
-- ⚡️ [vite-react-ts-antd-starter](https://github.com/zhixiangyao/vite-react-ts-antd-starter) (react 18.0 + react-router 6.0 +)
+- ⚡️ [vite-react-ts-antd-starter](https://github.com/zhixiangyao/vite-react-ts-antd-starter) (react 18.2 + react-router 6.0 +)
 - ⚡️ [vite-vue-markdown-ssg-starter](https://github.com/zhixiangyao/vite-vue-markdown-ssg-starter) (vue 3.2 +)
 - ⚡️ [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter) (vue 3.2 +)
 - ⚡️ [vite-vue-ts-monorepo-starter](https://github.com/zhixiangyao/vite-vue-ts-monorepo-starter) (monorepo vue 3.2 +)
