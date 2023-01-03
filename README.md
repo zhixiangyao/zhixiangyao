@@ -5,9 +5,8 @@
 ### 📜 Target
 
 - 🚶 The first step is as good as half over
-- 🚀 2022 Goals: 
+- 🚀 2023 Goals: 
   - Learn English
-  - LeetCode 
   - TypeScript
   - Vue 3.x
   - React 18.x
