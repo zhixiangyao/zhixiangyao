@@ -10,7 +10,7 @@
   - TypeScript
   - Vue 3.x
   - React 18.x
-  - Limit weight to 68KG
+  - Limit weight to 70KG
   - Smooth muscle up (I can only do 5 right now)
 - ❤️ Fun fact: 
   - Watching Anime
