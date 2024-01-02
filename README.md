@@ -3,18 +3,18 @@
 ### 📜 Target
 
 - 🚶 The first step is as good as half over
-- 🚀 2023 Goals: 
+- 🚀 2024 Goals: 
   - Learn English
-  - TypeScript
-  - Vue 3.x
-  - React 18.x
-  - Limit weight to 68KG
-  - Smooth muscle up (I can only do 5 right now)
+  - Learn TypeScript@latest
+  - Learn Vue@latest
+  - Learn React@latest
+  - Limit weight to 70KG
+  - ~~Smooth muscle up~~ (I can't do one now. 💔)
 - ❤️ Fun fact: 
-  - Watching Anime
-  - Dota2 & Apex & 蛋仔派对 (dàn zǎi pài duì - Egg party)
+  - Anime
+  - Movie
+  - Dota2 & 蛋仔派对 (dàn zǎi pài duì - Egg party)
   - Work out
-
 
 ### 📜 Project
 
@@ -25,8 +25,6 @@
 - ⚡️ [vite-vue-ts-monorepo-starter](https://github.com/zhixiangyao/vite-vue-ts-monorepo-starter) (monorepo vue 3)
 - ⚡️ [vite-vue2-ts-starter](https://github.com/zhixiangyao/vite-vue2-ts-starter) (vue 2.7)
 - 🌍 [nest-server-api-starter](https://github.com/zhixiangyao/nest-server-api-starter)
-
-- 💻 [Hackintosh-B460M-MORTAR-i5-10400-RX5700-4K](https://github.com/zhixiangyao/Hackintosh-B460M-MORTAR-i5-10400-RX5700-4K)
 
 ### 🐈‍⬛ Github Stats
 
