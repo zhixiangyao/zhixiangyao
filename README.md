@@ -20,10 +20,11 @@
 
 - ⚡️ [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter) (react + react-router)
 - ⚡️ [vite-react-ts-antd-starter](https://github.com/zhixiangyao/vite-react-ts-antd-starter) (react + react-router)
-- ⚡️ [vite-vue-markdown-ssg-starter](https://github.com/zhixiangyao/vite-vue-markdown-ssg-starter) (vue 3)
-- ⚡️ [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter) (vue 3)
-- ⚡️ [vite-vue-ts-monorepo-starter](https://github.com/zhixiangyao/vite-vue-ts-monorepo-starter) (monorepo vue 3)
-- ⚡️ [vite-vue2-ts-starter](https://github.com/zhixiangyao/vite-vue2-ts-starter) (vue 2.7)
+- ⚡️ [vite-vue-markdown-ssg-starter](https://github.com/zhixiangyao/vite-vue-markdown-ssg-starter) (vue3)
+- ⚡️ [vite-vue-ts-starter](https://github.com/zhixiangyao/vite-vue-ts-starter) (vue3)
+- ⚡️ [vite-vue-ts-monorepo-starter](https://github.com/zhixiangyao/vite-vue-ts-monorepo-starter) (monorepo vue3)
+- ⚡️ [vite-vue2-ts-starter](https://github.com/zhixiangyao/vite-vue2-ts-starter) (vue2.7)
+- 🌍 [nextjs-app-ts-starter](https://github.com/zhixiangyao/nextjs-app-ts-starter) (vue2.7)
 - 🌍 [nest-server-api-starter](https://github.com/zhixiangyao/nest-server-api-starter)
 
 ### 🐈‍⬛ Github Stats
