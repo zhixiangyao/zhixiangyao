@@ -1,5 +1,7 @@
 👋 Hello! I'm Yáo Zhi Xiang (In China, the order is different, Yáo is my last name, zhì xiáng is my first name.)
 
+It's hard in the middle of a cold 😣.
+
 ### 📜 Target
 
 - 🚶 The first step is as good as half over
