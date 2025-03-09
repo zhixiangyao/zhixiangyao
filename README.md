@@ -26,7 +26,7 @@
 - ⚡️ [vite-vue-ts-monorepo-starter](https://github.com/zhixiangyao/vite-vue-ts-monorepo-starter) (monorepo vue3)
 - ⚡️ [vite-vue2-ts-starter](https://github.com/zhixiangyao/vite-vue2-ts-starter) (vue2.7)
 - 📚 [vite-translate-webext](https://github.com/zhixiangyao/vite-translate-webext) (vue3 + antd)
-- 🌍 [nextjs-app-ts-starter](https://github.com/zhixiangyao/nextjs-app-ts-starter) (nextjs14)
+- 🌍 [nextjs-app-ts-starter](https://github.com/zhixiangyao/nextjs-app-ts-starter) (nextjs15)
 - 🌍 [nextjs-app-ts-antd-starter](https://github.com/zhixiangyao/nextjs-app-ts-antd-starter) (nextjs14)
 - 🌍 [nest-server-api-starter](https://github.com/zhixiangyao/nest-server-api-starter)
 
