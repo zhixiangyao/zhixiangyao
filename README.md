@@ -6,14 +6,14 @@
 - 🚀 2025 Goals: 
   - Learn English
   - Learn TypeScript@latest
-  - Learn Vue@latest
-  - Learn React@latest
+  - Learn Nestjs@latest
+  - Learn Nextjs@latest
   - Limit weight to 70KG
   - ~~Smooth muscle up~~ (I can't do one now. 💔)
 - ❤️ Fun fact: 
   - Anime
   - Movie
-  - Dota2 & 蛋仔派对 (dàn zǎi pài duì - Egg party)
+  - Dota2 / Earth Online
   - Work out
 
 ### 📜 Project
