@@ -18,7 +18,6 @@
 
 ### 📜 Project
 
-- 🐱 [fullstack-nest-react-starter](https://github.com/zhixiangyao/fullstack-nest-react-starter) (nestjs + react)
 - ⚡️ [vite-react-ts-starter](https://github.com/zhixiangyao/vite-react-ts-starter) (react)
 - ⚡️ [vite-react-ts-antd-starter](https://github.com/zhixiangyao/vite-react-ts-antd-starter) (react + antd)
 - ⚡️ [vite-vue-markdown-ssg-starter](https://github.com/zhixiangyao/vite-vue-markdown-ssg-starter) (vue3)
