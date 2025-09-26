@@ -9,7 +9,7 @@
   - Learn Nestjs@latest
   - Learn Nextjs@latest
   - Limit weight to 70KG
-  - ~~Smooth muscle up~~ (I can't do one now. 💔)
+  - Smooth muscle up (Resume exercising~)
 - ❤️ Fun fact: 
   - Anime
   - Movie
