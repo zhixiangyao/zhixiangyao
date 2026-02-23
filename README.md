@@ -3,13 +3,13 @@
 ### 📜 Target
 
 - 🚶 The first step is as good as half over
-- 🚀 2025 Goals: 
+- 🚀 2026 Goals: 
   - Learn English
   - Learn TypeScript@latest
   - Learn Nestjs@latest
   - Learn Nextjs@latest
   - Limit weight to 70KG
-  - Smooth muscle up (Resume exercising~)
+  - Smooth muscle up
 - ❤️ Fun fact: 
   - Anime
   - Movie
