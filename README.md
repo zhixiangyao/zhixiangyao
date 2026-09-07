@@ -29,4 +29,5 @@
 
 ### 🐈‍⬛ Github Stats
 
-<img alt="zhixiangyao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhixiangyao&theme=cobalt&show_icons=true" />
+<img alt="zhixiangyao's GitHub Stats" src="[https://github-readme-stats.vercel.app/api?username=zhixiangyao&theme=cobalt&show_icons=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhixiangyao&theme=cobalt)" />
+
